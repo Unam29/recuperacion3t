@@ -4,13 +4,13 @@ TUMTUMPA
 
 Mockup:
 
-![tumtumpa](.\tumtumpa.png)
+![tumtumpa](tumtumpa.png)
 
 
 
 Diagrama de Clases:
 
-![diagramaclases](.\diagramaclases.png)
+![diagramaclases](diagramaclases.png)
 
 
 
@@ -18,7 +18,7 @@ Diagrama de Clases:
 
 Diagrama de objetos:
 
-![diagramaobjetos](.\diagramaobjetos.png)
+![diagramaobjetos](diagramaobjetos.png)
 
 
 
@@ -36,4 +36,4 @@ Ficha técnica:
 
 Diagrama de secuencia de actividad:
 
-![secuenciaactividad](.\secuenciaactividad.jpeg)
+![secuenciaactividad](secuenciaactividad.jpeg)
